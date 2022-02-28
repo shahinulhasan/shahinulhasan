@@ -1,10 +1,6 @@
-(https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/177425121_2821386931446219_5702176035822862298_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHPvLPakPn2OiMKnsjUE4El4DgYh4ou_HPgOBiHii78c7q5ArVsdzoD2COtYRM0P43s8JRje2P6KWirABexAFE6&_nc_ohc=r2IqOIc6yjsAX9T3YUx&_nc_ht=scontent.fdac14-1.fna&oh=00_AT-y_hkVbV-0tcWt8Sk-7_0hX1C3LGuaQAzQRgQfaxAfEQ&oe=624144B3)
-
 ### Hi there 👋, I am Mohammad Shahinul Hasan
-
 #### Master of Digital Health, Technische Hochschule Deggendorf.
-
-![Master of Digital Health, Technische Hochschule Deggendorf.]
+![Master of Digital Health, Technische Hochschule Deggendorf.](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/177425121_2821386931446219_5702176035822862298_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHPvLPakPn2OiMKnsjUE4El4DgYh4ou_HPgOBiHii78c7q5ArVsdzoD2COtYRM0P43s8JRje2P6KWirABexAFE6&_nc_ohc=r2IqOIc6yjsAX9T3YUx&_nc_ht=scontent.fdac14-1.fna&oh=00_AT-y_hkVbV-0tcWt8Sk-7_0hX1C3LGuaQAzQRgQfaxAfEQ&oe=624144B3)
 
 I completed my graduation in Pharmacy. Despite having a biology background, I was fascinated about computer science. It influenced me to seek a postgraduate degree in Digital Health. I've now learned about Python and R programming language.  Machine Learning and Artificial Intelligence are two topics that pique my curiosity.
 
